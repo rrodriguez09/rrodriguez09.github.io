@@ -1647,3 +1647,15 @@ button {
 	body.is-preload #footer {
 		opacity: 0;
 	}
+
+.project-img {
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+.tall-img {
+  max-width: 360px;
+}
