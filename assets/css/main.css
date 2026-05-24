@@ -1659,3 +1659,16 @@ button {
 .tall-img {
   max-width: 360px;
 }
+
+.project-figure {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.project-figure figcaption {
+  max-width: 520px;
+  margin: 8px auto 0 auto;
+  font-size: 0.85em;
+  line-height: 1.4;
+  opacity: 0.8;
+}
